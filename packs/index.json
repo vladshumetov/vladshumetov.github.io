@@ -1,6 +1,10 @@
 {
   "packs": [
-    "rjombasmex.json"
+    "rjombasmex.json",
+    "bsd_kartinki_by_fStikBot.json",
+    "zookek4.json",
+    "anime_emotion.json",
+    "ManPuzzle.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
